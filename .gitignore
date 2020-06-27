@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.Python
+.cache
+.ipynb_checkpoints
+ipython_config.py
+.env
+.venv
+env/
+data/
+x_data_np
