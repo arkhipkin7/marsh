@@ -8,6 +8,9 @@
 ## Getting Started
 
 [![Build Status](https://api.travis-ci.com/yiisoft/yii.png)](http://travis-ci.com/yiisoft/yii)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 
 ----
 ### Prerequisites
@@ -67,9 +70,13 @@ Add additional notes about how to deploy this on a live system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
+## FeedBack
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+:iphone: +7 (963) 109-83-33
+
+:mailbox: arkhipkin7@yahoo.com
+
+:busts_in_silhouette: https://vk.com/arkhipkin7
 
 ## Authors
 
