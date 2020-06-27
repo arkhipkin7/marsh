@@ -9,7 +9,9 @@
 
 [![Build Status](https://api.travis-ci.com/yiisoft/yii.png)](http://travis-ci.com/yiisoft/yii)
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Generic badge](https://img.shields.io/badge/Version-1.0-RED.svg)](https://shields.io/)
 
 
 ----
