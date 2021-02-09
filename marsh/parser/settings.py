@@ -1,1 +1,2 @@
-token = "57320e733eee1868d29abec47c85044fd4e305439c68413c5b053bfbfba7536cd12ba80c431a5fad04ba9"
+# Inter Your VK-Token
+token = ""
